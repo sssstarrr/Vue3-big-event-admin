@@ -1,6 +1,6 @@
 <template>
   <div>
-    layout
+    layoutView
     <router-view></router-view>
   </div>
 </template>
